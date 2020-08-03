@@ -1,0 +1,61 @@
+.state-container {
+    width: 80%;
+    margin: auto;
+    height: 70px;
+    border-radius: 20px;
+    box-shadow: 0px 5px 20px #00000020;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+}
+
+.state-img-container {
+    display: inline-block;
+    width: 120px;
+    margin-right: 10px;
+    text-align: center;
+    height: 100%;
+}
+
+.state-img-container img {
+    height: 50%;
+    vertical-align: middle;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+.state-info-left {
+    display: inline-block;
+}
+
+.state-name h2 {
+    display: inline-block;
+}
+
+.state-name {
+    display: inline-block;
+    width: 320px;
+}
+
+.state-info-left span {
+    padding-right: 100px;
+}
+
+.state-info-right {
+    float: right;
+}
+
+.state-info-right h2 {
+    padding-right: 80px;
+    display: inline-block;
+}
+
+.state-percent {
+    display: inline-block;
+    width: 100px;
+}
+
+.state-percent p {
+    padding-right: 20px;
+    text-align: right;
+}

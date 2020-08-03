@@ -1,0 +1,13 @@
+.edit-poll input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.edit-poll select {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.edit-poll label {
+    margin-right: 10px;
+}

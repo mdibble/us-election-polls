@@ -1,0 +1,28 @@
+.footer {
+    position: absolute;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+    color: #777777;
+    overflow: hidden;
+}
+
+.inner-footer {
+    width: 60%;
+    margin: auto;
+    line-height: 60px;
+}
+
+.left-info {
+    float: left;
+    text-align: left;
+}
+
+.right-info {
+    float: right;
+    text-align: right;
+}
+
+.footer a {
+    color: inherit;
+}

@@ -1,0 +1,308 @@
+[
+    {
+        "name": "Alabama",
+        "abbreviation": "AL",
+        "delegates": 9,
+        "prevVote": "R"
+    },
+    {
+        "name": "Alaska",
+        "abbreviation": "AK",
+        "delegates": 3,
+        "prevVote": "R"
+    },
+    {
+        "name": "Arizona",
+        "abbreviation": "AZ",
+        "delegates": 11,
+        "prevVote": "R"
+    },
+    {
+        "name": "Arkansas",
+        "abbreviation": "AR",
+        "delegates": 6,
+        "prevVote": "R"
+    },
+    {
+        "name": "California",
+        "abbreviation": "CA",
+        "delegates": 55,
+        "prevVote": "D"
+    },
+    {
+        "name": "Colorado",
+        "abbreviation": "CO",
+        "delegates": 9,
+        "prevVote": "D"
+    },
+    {
+        "name": "Connecticut",
+        "abbreviation": "CT",
+        "delegates": 7,
+        "prevVote": "D"
+    },
+    {
+        "name": "Delaware",
+        "abbreviation": "DE",
+        "delegates": 3,
+        "prevVote": "D"
+    },
+    {
+        "name": "District of Columbia",
+        "abbreviation": "DC",
+        "delegates": 3,
+        "prevVote": "D"
+    },
+    {
+        "name": "Florida",
+        "abbreviation": "FL",
+        "delegates": 29,
+        "prevVote": "R"
+    },
+    {
+        "name": "Georgia",
+        "abbreviation": "GA",
+        "delegates": 16,
+        "prevVote": "R"
+    },
+    {
+        "name": "Hawaii",
+        "abbreviation": "HI",
+        "delegates": 4,
+        "prevVote": "D"
+    },
+    {
+        "name": "Idaho",
+        "abbreviation": "ID",
+        "delegates": 4,
+        "prevVote": "R"
+    },
+    {
+        "name": "Illinois",
+        "abbreviation": "IL",
+        "delegates": 20,
+        "prevVote": "D"
+    },
+    {
+        "name": "Indiana",
+        "abbreviation": "IN",
+        "delegates": 11,
+        "prevVote": "R"
+    },
+    {
+        "name": "Iowa",
+        "abbreviation": "IA",
+        "delegates": 6,
+        "prevVote": "R"
+    },
+    {
+        "name": "Kansas",
+        "abbreviation": "KS",
+        "delegates": 6,
+        "prevVote": "R"
+    },
+    {
+        "name": "Kentucky",
+        "abbreviation": "KY",
+        "delegates": 8,
+        "prevVote": "R"
+    },
+    {
+        "name": "Louisiana",
+        "abbreviation": "LA",
+        "delegates": 8,
+        "prevVote": "R"
+    },
+    {
+        "name": "Maine",
+        "abbreviation": "ME",
+        "delegates": 4,
+        "prevVote": "D"
+    },
+    {
+        "name": "Maryland",
+        "abbreviation": "MD",
+        "delegates": 10,
+        "prevVote": "D"
+    },
+    {
+        "name": "Massachusetts",
+        "abbreviation": "MA",
+        "delegates": 11,
+        "prevVote": "D"
+    },
+    {
+        "name": "Michigan",
+        "abbreviation": "MI",
+        "delegates": 16,
+        "prevVote": "R"
+    },
+    {
+        "name": "Minnesota",
+        "abbreviation": "MN",
+        "delegates": 10,
+        "prevVote": "D"
+    },
+    {
+        "name": "Mississippi",
+        "abbreviation": "MS",
+        "delegates": 6,
+        "prevVote": "R"
+    },
+    {
+        "name": "Missouri",
+        "abbreviation": "MO",
+        "delegates": 10,
+        "prevVote": "R"
+    },
+    {
+        "name": "Montana",
+        "abbreviation": "MT",
+        "delegates": 3,
+        "prevVote": "R"
+    },
+    {
+        "name": "Nebraska",
+        "abbreviation": "NE",
+        "delegates": 5,
+        "prevVote": "R"
+    },
+    {
+        "name": "Nevada",
+        "abbreviation": "NV",
+        "delegates": 6,
+        "prevVote": "D"
+    },
+    {
+        "name": "New Hampshire",
+        "abbreviation": "NH",
+        "delegates": 4,
+        "prevVote": "D"
+    },
+    {
+        "name": "New Jersey",
+        "abbreviation": "NJ",
+        "delegates": 14,
+        "prevVote": "D"
+    },
+    {
+        "name": "New Mexico",
+        "abbreviation": "NM",
+        "delegates": 5,
+        "prevVote": "D"
+    },
+    {
+        "name": "New York",
+        "abbreviation": "NY",
+        "delegates": 29,
+        "prevVote": "D"
+    },
+    {
+        "name": "North Carolina",
+        "abbreviation": "NC",
+        "delegates": 15,
+        "prevVote": "R"
+    },
+    {
+        "name": "North Dakota",
+        "abbreviation": "ND",
+        "delegates": 3,
+        "prevVote": "R"
+    },
+    {
+        "name": "Ohio",
+        "abbreviation": "OH",
+        "delegates": 18,
+        "prevVote": "R"
+    },
+    {
+        "name": "Oklahoma",
+        "abbreviation": "OK",
+        "delegates": 7,
+        "prevVote": "R"
+    },
+    {
+        "name": "Oregon",
+        "abbreviation": "OR",
+        "delegates": 7,
+        "prevVote": "D"
+    },
+    {
+        "name": "Pennsylvania",
+        "abbreviation": "PA",
+        "delegates": 20,
+        "prevVote": "R"
+    },
+    {
+        "name": "Rhode Island",
+        "abbreviation": "RI",
+        "delegates": 4,
+        "prevVote": "D"
+    },
+    {
+        "name": "South Carolina",
+        "abbreviation": "SC",
+        "delegates": 9,
+        "prevVote": "R"
+    },
+    {
+        "name": "South Dakota",
+        "abbreviation": "SD",
+        "delegates": 3,
+        "prevVote": "R"
+    },
+    {
+        "name": "Tennessee",
+        "abbreviation": "TN",
+        "delegates": 11,
+        "prevVote": "R"
+    },
+    {
+        "name": "Texas",
+        "abbreviation": "TX",
+        "delegates": 38,
+        "prevVote": "R"
+    },
+    {
+        "name": "Utah",
+        "abbreviation": "UT",
+        "delegates": 6,
+        "prevVote": "R"
+    },
+    {
+        "name": "Vermont",
+        "abbreviation": "VT",
+        "delegates": 3,
+        "prevVote": "D"
+    },
+    {
+        "name": "Virginia",
+        "abbreviation": "VA",
+        "delegates": 13,
+        "prevVote": "D"
+    },
+    {
+        "name": "Washington",
+        "abbreviation": "WA",
+        "delegates": 12,
+        "prevVote": "D"
+    },
+    {
+        "name": "West Virginia",
+        "abbreviation": "WV",
+        "delegates": 5,
+        "prevVote": "R"
+    },
+    {
+        "name": "Wisconsin",
+        "abbreviation": "WI",
+        "delegates": 10,
+        "prevVote": "R"
+    },
+    {
+        "name": "Wyoming",
+        "abbreviation": "WY",
+        "delegates": 3,
+        "prevVote": "R"
+    }
+]

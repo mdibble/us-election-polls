@@ -1,0 +1,9 @@
+.polls-container {
+    margin: auto;
+}
+
+.polls-flex {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
